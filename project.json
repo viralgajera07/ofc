@@ -1,0 +1,26 @@
+{
+  "overview": "A professional 5-page service agency website designed to generate leads and convert visitors into clients. Features a bold hero, service showcase, portfolio grid with filtering, team about page, and WhatsApp-powered contact — all with a clean, minimal, mobile-responsive design.",
+  "features": [
+    "Hero section with strong CTA",
+    "4-service showcase with detailed breakdowns",
+    "Portfolio grid with category filtering",
+    "About page with team bios and achievements",
+    "Contact form with WhatsApp integration",
+    "Floating WhatsApp button on all pages",
+    "Mobile-responsive design",
+    "Testimonials section",
+    "4-step process timeline",
+    "Footer with social links"
+  ],
+  "category": "business-agency",
+  "tags": [
+    "agency",
+    "portfolio",
+    "services",
+    "lead-generation",
+    "whatsapp",
+    "marketing",
+    "ecommerce"
+  ],
+  "last_updated": "2026-04-23T10:15:31.912Z"
+}
